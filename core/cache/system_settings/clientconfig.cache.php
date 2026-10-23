@@ -1,0 +1,16 @@
+<?php  return array (
+  'option_name_de' => 'IP OOO Minavto',
+  'option_address_web' => 'ул. Минская, 2B, 223141 Логойск, Минская область, РБ',
+  'option_form_email' => 'tds@zmitroc.by',
+  'option_email' => 'info@minavto.by',
+  'option_latitude' => '54.185882886234786',
+  'option_longitude' => '27.832639217376713',
+  'option_copyright' => '2026 minavto.by',
+  'google' => '',
+  'yandex' => '',
+  'jivo' => '',
+  'option_address_en' => ' st. Minsk, 2B, 223141 Logoisk, Minsk region, RB',
+  'option_address_de' => 'Minskaya Str. 2V, Logoysk, 223141 Minsk Region, Belarus',
+  'option_name_web' => 'ИП ООО «Минавто»',
+  'option_name_en' => 'IP OOO Minavto',
+);
