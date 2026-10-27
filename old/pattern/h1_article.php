@@ -1,1 +1,0 @@
-<h1 class="center-text name-page"><?php echo $this->tdk['h1']; ?></h1>
